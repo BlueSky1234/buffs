@@ -39,7 +39,7 @@ max_htc = 1100
 max_gc = 550
 max_db_wishes = 5
 max_mentors = 37
-max_grand_kai = 1000
+max_grand_kai = 1986
 level_buff = 0.007
 stat_buff = 0.014
 
